@@ -1,0 +1,6 @@
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\bin\Debug\Ex02_Checkers.dll
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\bin\Debug\Ex02_Checkers.pdb
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\obj\Debug\Ex02_Checkers.csproj.AssemblyReference.cache
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\obj\Debug\Ex02_Checkers.csproj.CoreCompileInputs.cache
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\obj\Debug\Ex02_Checkers.dll
+C:\Users\skese\source\repos\B22 Ex02 YoavRusso 316269406 KesemSharabi 313245813\Ex02_Checkers\obj\Debug\Ex02_Checkers.pdb
